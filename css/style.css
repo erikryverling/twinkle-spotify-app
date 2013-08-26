@@ -1,0 +1,46 @@
+html {
+  overflow: auto;
+  color: #999999;
+  background-color: #262626;
+}
+
+body {
+    margin: 0px;
+}
+
+p, h1 {
+    text-align: center;
+    font-family: "Helvetica";
+}
+
+p {
+    margin: 5px 0px;
+    font-size: 30px;
+}
+
+h1 {
+    color: #736820;
+    font-size: 25px;
+    margin: 0px;
+}
+
+#url {
+    font-size: 40px;
+}
+
+#header {
+    background-color: #333333;
+}
+
+img.star {
+    display: block;
+    margin: 60px auto 20px auto;
+}
+
+.error  {
+    color: #f25555;
+}
+
+.success  {
+    color: #82b919;
+}
