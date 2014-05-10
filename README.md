@@ -1,10 +1,10 @@
+![Twinkle white star](http://erik.r.yverling.se/images/external/white-star.png)
+
 What the ...?
 -------------
 *Twinkle lets you star the current playing song in Spotify with a single click.*
 
-![Twinkle screenshot](https://s3.amazonaws.com/erik-r-yverling/images/twinkle-screenshot.png)
-
-This is great for saving that fine tune you are listening to without breaking your attention while coding or 
+This is great for saving that swanky tune you are listening to without breaking your attention while coding or 
 doing some other focused activity. 
 Twinkle uses the [Spotify Apps API](https://developer.spotify.com/technologies/apps) to star songs and WebSockets 
 to communicate key presses. This makes it platform independent and not depending on the Spotify GUI components.
@@ -65,9 +65,9 @@ script as described in this [Super User entry](http://superuser.com/questions/62
 
 
 ### Spotify app ###
-1. First you need to make your Spotify account a developer account.
+1. First you need to make your Spotify account a developer account. You do not need keys. It's just that your account needs to be  a developer based account.
 Do this by clicking [here](https://developer.spotify.com/technologies/apps/#developer-account).
-2. Create a folder named *Spotify* in your home folder (or *My Documents* on Windows).
+2. Create a folder named *Spotify* in your home folder (or *My Documents* on Windows). This step is really important, otherwise Spotify won't be able to find your app.
 3. Clone the *twinkle-spotify-app* in the newly created Spotify folder using the command
 
         $ git clone https://github.com/erikryverling/twinkle-spotify-app.git
@@ -76,7 +76,7 @@ Do this by clicking [here](https://developer.spotify.com/technologies/apps/#deve
 ### Client ###
 Clone the *twinkle-client* in a preferred folder using the command
 
-    $ git clone https://github.com/erikryverling/twinkle-client-server.git
+    $ git clone https://github.com/erikryverling/twinkle-client.git
 
 
 #### Arch Linux ####
