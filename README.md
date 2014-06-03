@@ -1,4 +1,4 @@
-*DEPRICATION WARNING! Due to the latest Spotify UI update, the star feature has been removed. I'll soon update twinkle to support a new way to saving your favourite tunes. Hold tight!*
+**DEPRICATION WARNING! Due to the latest Spotify UI update, the star feature has been removed. I'll soon update twinkle to support a new way to saving your favourite tunes. Hold tight!**
 
 What the ...?
 -------------
