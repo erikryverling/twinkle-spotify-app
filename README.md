@@ -78,7 +78,7 @@ Do this by clicking [here](https://developer.spotify.com/technologies/apps/#deve
 ### Client ###
 Clone the *twinkle-client* in a preferred folder using the command
 
-    $ git clone https://github.com/erikryverling/twinkle-client-server.git
+    $ git clone https://github.com/erikryverling/twinkle-client.git
 
 
 #### Arch Linux ####
